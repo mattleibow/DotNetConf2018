@@ -95,6 +95,7 @@ instead of using `netstandard2.0` as the target framework, use
 `netcoreapp2.1`. This lets the compiler know that we want a .NET Core app and
 not a library.
 
+[<< Stage 3 - SDK-Style](../Stage%203%20-%20SDK-Style) | [Stage 4b - Add .NET Core >>](../Stage%204b%20-%20Add%20.NET%20Core)
 
 [1]: https://www.nuget.org/packages/Microsoft.Windows.Compatibility
 [2]: https://www.nuget.org/packages/Microsoft.DotNet.Analyzers.Compatibility

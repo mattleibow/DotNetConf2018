@@ -26,3 +26,5 @@ This console app is also a simple .csproj:
 
 The console app does nothing much, except start the work done in the class
 library.
+
+[Stage 2 - PackageReference >>](../Stage%202%20-%20PackageReference)

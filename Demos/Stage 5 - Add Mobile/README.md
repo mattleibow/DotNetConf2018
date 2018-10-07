@@ -35,3 +35,5 @@ the `Sdk` attribute of the root `<Project>` element of the .csproj, we use
 This is not useful since a .NET Core app cannot run on mobile devices, but we
 can now add a new Xamarin.iOS or Xamarin.Android project to our solution and
 just reference the same class library.
+
+[<< Stage 4b - Add .NET Core](../Stage%204b%20-%20Add%20.NET%20Core)

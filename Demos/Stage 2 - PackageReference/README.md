@@ -39,3 +39,5 @@ This is also a very simple task.
 ![Right Click](../../Assets/RightClickMigrate.png)
 
 ![Migrate Packages](../../Assets/MigratePackages.png)
+
+[<< Stage 1 - Initial](../Stage%201%20-%20Initial) | [Stage 3 - SDK-Style >>](../Stage%203%20-%20SDK-Style)

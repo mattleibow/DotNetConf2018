@@ -37,3 +37,5 @@ This is the exact same process as the class library, except for 1 extra bit:
 instead of using `netstandard2.0` as the target framework, use
 `netcoreapp2.1`. This lets the compiler know that we want a .NET Core app and
 not a library.
+
+[<< Stage 4a - Switch to .NET Core](../Stage%204a%20-%20Switch%20to%20.NET%20Core) | [Stage 5 - Add Mobile >>](../Stage%205%20-%20Add%20Mobile)
