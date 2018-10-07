@@ -1,0 +1,14 @@
+﻿<Project Sdk="MSBuild.Sdk.Extras/1.6.55">
+
+  <PropertyGroup>
+   <TargetFrameworks>net471;netstandard2.0;uap10.0.16299;xamarinios1.0;monoandroid8.1</TargetFrameworks>
+   <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
+    <PackageReference Include="Microsoft.Windows.Compatibility" Version="2.0.1" />
+    <PackageReference Include="Microsoft.DotNet.Analyzers.Compatibility" Version="0.2.12-alpha" PrivateAssets="All" />
+  </ItemGroup>
+
+</Project>
