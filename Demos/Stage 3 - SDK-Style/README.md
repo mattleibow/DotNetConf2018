@@ -69,7 +69,7 @@ MSBuild know that it must make an .exe instead of a .dll:
 </PropertyGroup>
 ```
 
-[<< Stage 2 - PackageReference](Demos/Stage%202%20-%20PackageReference) | [Stage 4a - Switch to .NET Core >>](Demos/Stage%204a%20-%20Switch%20to%20.NET%20Core)
+[<< Stage 2 - PackageReference](../Stage%202%20-%20PackageReference) | [Stage 4a - Switch to .NET Core >>](../Stage%204a%20-%20Switch%20to%20.NET%20Core)
 
 
 [1]: https://docs.microsoft.com/en-us/dotnet/core/tools/csproj#assemblyinfo-properties
